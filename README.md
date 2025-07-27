@@ -3,10 +3,13 @@ Trading Sentiment Analysis
 
 COLAB LINK (FOLDER)
 https://drive.google.com/drive/folders/1xUuikPlazupOjnb6fLVuIj2AWuKV-7UD?usp=sharing
+
 NOTEBOOK_1 
 https://colab.research.google.com/drive/11wGmuKNxEsebFyJPzDStQABDdUevfy-o?usp=sharing
+
 NOTEBBOK_2
 https://colab.research.google.com/drive/1q79WCPmUrFGC8pOHHhVpt993nBHGH9yU?usp=sharing
+
 
 Project Overview
 This project analyzes the relationship between trading behavior and the Fear & Greed Index to uncover how market sentiment influences decision-making, profitability, and risk patterns. It combines quantitative trading data with emotional indicators to surface trends that can guide smarter, sentiment-aware strategies.
