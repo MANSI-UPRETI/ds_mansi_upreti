@@ -54,5 +54,6 @@ Insights and Outcomes
 * Correlation analysis reveals that trading volume and net PnL have a weak to moderate relationship with sentiment scores
 
 Conclusion
+
 This analysis bridges trading metrics with psychological indicators to better understand how market sentiment affects trader behavior. The findings support the use of sentiment-aware models in risk management, timing entries and exits, and optimizing trading strategies.
 
